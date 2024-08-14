@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "596381551772",
+    "project_id": "task5-af880",
+    "storage_bucket": "task5-af880.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596381551772:android:aa85e83e9b6e0561a93159",
+        "android_client_info": {
+          "package_name": "com.example.task5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9xmLSbqQAfPP4BL-8g181ehdQ9bjexq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
